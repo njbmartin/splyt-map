@@ -1,0 +1,11 @@
+{
+    "env": {
+        "es6": true,
+        "browser": true
+    },
+    "globals": {
+      "GOOGLE_API_KEY": "readonly"
+    },
+    "extends": ["plugin:react/recommended", "airbnb"],
+    "plugins": ["react"]
+}

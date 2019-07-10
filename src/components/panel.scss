@@ -1,0 +1,13 @@
+.panel {
+  background: white;
+  position: absolute;
+  left: 2em;
+  top: 2em;
+  padding: 2em;
+
+  .label {
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-bottom: .5em;
+  }
+}
